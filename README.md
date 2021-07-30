@@ -1,18 +1,18 @@
 # Blockchain
 
 # Developed by
- *Mohd. Raqif Warsi(1701410062)
- *Abhay Gangwar(1701410003)
- *Ravish Ahmad(1701410084)
+ * Mohd. Raqif Warsi(1701410062)
+ * Abhay Gangwar(1701410003)
+ * Ravish Ahmad(1701410084)
 
 # Hardware Requirements
- -Processor: Pentium 4 (or equivalent)
- -Minimum 2 GB RAM
- -Hard disk space: 10 GB
- -75 MB of available disk space or more.
- -connection to the Internet 
- -Mouse
- -Keyboard
+ - Processor: Pentium 4 (or equivalent)
+ - Minimum 2 GB RAM
+ - Hard disk space: 10 GB
+ - 75 MB of available disk space or more.
+ - connection to the Internet 
+ - Mouse
+ - Keyboard
 
 # Minimum Software Requirements
  -Node Js 4.2.6
