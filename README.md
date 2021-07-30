@@ -1,11 +1,11 @@
 # Blockchain
 
-Developed by
+# Developed by
  -Mohd. Raqif Warsi(1701410062)
  -Abhay Gangwar(1701410003)
  -Ravish Ahmad(1701410084)
 
-Hardware Requirements
+# Hardware Requirements
  -Processor: Pentium 4 (or equivalent)
  -Minimum 2 GB RAM
  -Hard disk space: 10 GB
@@ -14,7 +14,7 @@ Hardware Requirements
  -Mouse
  -Keyboard
 
-Minimum Software Requirements
+# Minimum Software Requirements
  -Node Js 4.2.6
  -NPM 3.5.2.
  -body-parserv1.19.0
@@ -27,7 +27,7 @@ Minimum Software Requirements
  -Vs code
  -Any Internet browser
 
-Getting Started
+# Getting Started
  -The first step in running this project is to run npm install in vs code command
   this will intstall all the required libraries 
 
