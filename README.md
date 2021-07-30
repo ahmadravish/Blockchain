@@ -1,9 +1,9 @@
 # Blockchain
 
 # Developed by
- -Mohd. Raqif Warsi(1701410062)
- -Abhay Gangwar(1701410003)
- -Ravish Ahmad(1701410084)
+ *Mohd. Raqif Warsi(1701410062)
+ *Abhay Gangwar(1701410003)
+ *Ravish Ahmad(1701410084)
 
 # Hardware Requirements
  -Processor: Pentium 4 (or equivalent)
